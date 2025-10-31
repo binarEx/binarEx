@@ -86,11 +86,6 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [**gov-digitalization**](#) | Core architecture for a government digitalization initiative | Spring Boot · React · Azure |
-| [**rusty-lab**](#) | Experimental playground for learning Rust and systems-level concepts | Rust |
-| [**data-pipeline-kit**](#) | Reusable toolkit for data ingestion and ETL workflows | Python · Flask · PostgreSQL |
-| [**cloud-ci-templates**](#) | Automated CI/CD templates for GitHub & GitLab | YAML · Docker · GitHub Actions |
-
-> 🧭 Add real repo links once you make them public — this table updates your profile beautifully.
 
 ---
 
