@@ -7,6 +7,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarEx&theme=radical" alt="GitHub Streak"/>
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=binarEx&theme=radical&hide_border=true)
+
 ---
 
 ### ⚡ About Me
@@ -28,8 +30,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) (Doing Babysteps)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 **Frameworks:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -54,10 +55,10 @@
 ---
 
 ### 🧰 Build & Tooling
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 ---
 
