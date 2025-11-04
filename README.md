@@ -4,18 +4,34 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarEx&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=binarEx&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=binarEx&theme=radical&hide_border=true)
 ---
 
-### ⚡ About Me
+## ⚡ About Me
 - 🚀 Lead Developer & Architect in Germany’s digital government projects  
 - 🧠 Bridging software engineering with data science  
 - 🧰 Building scalable, cloud-native systems using modern frameworks  
 - 🦀 Exploring Rust for systems-level development  
 - 🌍 Based in Germany — passionate about open source and digital innovation  
+
+---
+
+## 🚧 Currently
+- 📈 Building a Financial Portfolio App for motivated Retail Investors
+- 🤖 Working on a Research Project for Agent Communication
+- 🦀 Deepening my Rust skills for backend systems
+- 🧩 Experimenting with Tailwind for design systems
+- 🛡️ Studying application security and pentesting
+
+---
+
+## 🧠 Focus Areas
+- Full-stack application architecture  
+- Cloud-native development & automation  
+- DevSecOps, CI/CD, and system observability  
+- Data engineering and backend optimization
 
 ---
 
@@ -70,7 +86,6 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-CA2136?style=flat&logo=apache&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 ---
 
@@ -103,7 +118,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=binarEx&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
@@ -146,6 +161,11 @@ When I’m not coding, I enjoy:
 - 🌐 [Website / Portfolio](#)
 - 💼 [LinkedIn](#)
 - ✉️ [Email](#)
+
+### 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
 
 ---
 
