@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=binarEx&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   ![GitHub Streak](https://streak-stats.demolab.com?user=binarEx&theme=radical&hide_border=true)
 </p>
 ---
