@@ -5,6 +5,8 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=binarEx&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=binarEx&theme=radical" alt="Streaks backup"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarEx&theme=radical" alt="Streaks backup 2"/>
 </p>
 
 ---
