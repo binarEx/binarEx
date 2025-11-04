@@ -47,7 +47,9 @@
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
-**Frameworks:**  
+---
+
+### 🖼️ Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -155,17 +157,12 @@ When I’m not coding, I enjoy:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=binarEx&theme=redical&hide_border=true&include_all_commits=true&count_private=true" alt="Activity Graph" />
 </p>
 
----
-
-## 🔗 Connect
-- 🌐 [Website / Portfolio](#)
-- 💼 [LinkedIn](#)
-- ✉️ [Email](#)
+--- 
 
 ### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
+- [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](#)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
 
 ---
 
