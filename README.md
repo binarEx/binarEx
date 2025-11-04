@@ -7,8 +7,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarEx&theme=radical" alt="GitHub Streak"/>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=binarEx&theme=radical&hide_border=true)
-
+<p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=binarEx&theme=radical&hide_border=true)
+</p>
 ---
 
 ### ⚡ About Me
