@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ About Me
+## ⚡ That's Me
 - 🚀 Lead Developer & Architect in Germany’s digital government projects  
 - 🧠 Bridging software engineering with data science  
 - 🧰 Building scalable, cloud-native systems using modern frameworks  
@@ -38,7 +38,7 @@
 
 ---
 
-## 🧩 Skills Overview
+## 🧩 My Toolbox and Stuff I have worked with
 
 ### 🎨 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -164,7 +164,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Things I have built
 
 | Project | Description | Tech |
 |----------|--------------|------|
@@ -172,8 +172,7 @@
 
 ---
 
-## 🎯 Hobbies & Interests
-When I’m not coding, I enjoy:
+## 🎯 When I am not Coding
 - 🏄‍♂️ Boardsports & Hiking
 - ✈️ Traveling basically for the previous one and awesome food
 - 👨‍💻 Pentesting & Application Security
