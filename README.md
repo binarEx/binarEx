@@ -3,20 +3,6 @@
   <em>Full-Stack Engineer | Data Science Background | Tech Architect</em>
 </p>
 
-## 📊 GitHub Metrics
-<p align="center">
-  <picture>
-    <source type="image/svg+xml" srcset="https://raw.githubusercontent.com/binarEx/binarEx/main/github-metrics.svg?v=1">
-    <img src="https://raw.githubusercontent.com/binarEx/binarEx/main/github-metrics.png?v=1" alt="GitHub Metrics" width="900">
-  </picture>
-</p>
-
-
-## Languages used on the Hub
-<p align="center">
-  <img src="https://raw.githubusercontent.com/binarEx/binarEx/main/github-languages.svg?v=1" alt="Top languages" width="600">
-</p>
-
 ---
 
 ## ⚡ That's Me
@@ -200,6 +186,22 @@
 </p>
 
 --- 
+
+## 📊 GitHub Metrics
+<p align="center">
+  <picture>
+    <source type="image/svg+xml" srcset="https://raw.githubusercontent.com/binarEx/binarEx/main/github-metrics.svg?v=1">
+    <img src="https://raw.githubusercontent.com/binarEx/binarEx/main/github-metrics.png?v=1" alt="GitHub Metrics" width="900">
+  </picture>
+</p>
+
+
+## Languages used on the Hub
+<p align="center">
+  <img src="https://raw.githubusercontent.com/binarEx/binarEx/main/github-languages.svg?v=1" alt="Top languages" width="600">
+</p>
+
+---
 
 ### 🔗 Connect
 - [![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](#)
