@@ -3,11 +3,18 @@
   <em>Full-Stack Engineer | Data Science Background | Tech Architect</em>
 </p>
 
+## 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarEx&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=binarEx&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://streak-stats.demolab.com?user=binarEx&theme=radical" alt="Streaks backup"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarEx&theme=radical" alt="Streaks backup 2"/>
+  <picture>
+    <source type="image/svg+xml" srcset="https://raw.githubusercontent.com/binarEx/binarEx/main/github-metrics.svg?v=1">
+    <img src="https://raw.githubusercontent.com/binarEx/binarEx/main/github-metrics.png?v=1" alt="GitHub Metrics" width="900">
+  </picture>
+</p>
+
+
+## Languages used on the Hub
+<p align="center">
+  <img src="https://raw.githubusercontent.com/binarEx/binarEx/main/github-languages.svg?v=1" alt="Top languages" width="600">
 </p>
 
 ---
