@@ -56,3 +56,12 @@ jobs:
           git add github-metrics.svg github-metrics.png
           git commit -m "chore(metrics): update stats" || echo "No changes"
           git push
+            with:
+          user: binarEx
+          filename: github-languages.svg
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          token: ${{ secrets.METRICS_TOKEN }}
