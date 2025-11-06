@@ -1,0 +1,58 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "17 6 * * *"    # daily at 06:17 UTC
+  workflow_dispatch:        # allow manual runs from the Actions tab
+
+permissions:
+  contents: write           # allow committing the generated files
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          user: binarEx
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Berlin
+
+          # Plugins (tweak as you like)
+          plugin_isocalendar: yes            # contribution calendar
+          plugin_languages: yes              # most-used languages
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 10
+          plugin_habits: yes                 # commit habits
+          plugin_habits_from: 200
+
+          # Private activity support (comment out if public-only)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      # Convert SVG → PNG fallback (helps if an extension blocks SVGs)
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download generated SVG
+        uses: actions/download-artifact@v4
+        if: false  # (not needed; lowlighter/metrics writes directly into repo)
+        with:
+          name: github-metrics.svg
+
+      - name: Install rsvg-convert
+        run: sudo apt-get update && sudo apt-get install -y librsvg2-bin
+
+      - name: Rasterize SVG to PNG
+        run: |
+          rsvg-convert -w 1200 github-metrics.svg -o github-metrics.png
+
+      - name: Commit metrics files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg github-metrics.png
+          git commit -m "chore(metrics): update stats" || echo "No changes"
+          git push
