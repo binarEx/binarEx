@@ -25,7 +25,7 @@
 - 📈 Building a Financial Portfolio App for motivated Retail Investors
 - 🤖 Working on a Research Project for Agent Communication
 - 🦀 Deepening my Rust skills for backend systems
-- 🧩 Experimenting with Tailwind for design systems
+- 👨‍💻 Experimenting with Vue.js for my private Website to learn a new ui framework
 - 🛡️ Studying application security and pentesting
 
 ---
