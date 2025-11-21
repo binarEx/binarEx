@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Luke — binarEx</h1>
+<h1 align="center">👨‍💻 Luke — lukekania</h1>
 <p align="center">
   <em>Full-Stack Engineer | Data Science Background | Tech Architect</em>
 </p>
